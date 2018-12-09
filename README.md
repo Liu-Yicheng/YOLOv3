@@ -37,7 +37,7 @@
 				
 	
 # YOLOv3损失函数构造过程：       
-![result_2](https://github.com/Liu-Yicheng/Fast-RCNN/raw/master/result/2.jpg)      
+![result_2](https://github.com/Liu-Yicheng/YOLOv3/raw/master/picture/YOLOv3.jpg)      
 
 
 				
